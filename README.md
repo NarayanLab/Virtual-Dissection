@@ -10,7 +10,7 @@ Ruibin Feng<sup>1</sup>, PhD, Brototo Deb<sup>1</sup>, MD, Prasanth Ganesan<sup>
 <p align="center"><img width="100%" src="figures/Central_Illustration.png" /></p>
 
 ## Virtual Dissection - Erosion
-<p align="center"><img width="100%" src="figures/Erosion.git" /></p>
+<p align="center"><img width="100%" src="figures/Erosion.gif" /></p>
 
 <!-- 
 
